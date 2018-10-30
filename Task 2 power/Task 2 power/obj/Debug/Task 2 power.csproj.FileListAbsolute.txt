@@ -1,0 +1,7 @@
+C:\Users\Metabolic\source\repos\Homework 30.10 Bruk\Task 2 power\Task 2 power\bin\Debug\Task 2 power.exe.config
+C:\Users\Metabolic\source\repos\Homework 30.10 Bruk\Task 2 power\Task 2 power\bin\Debug\Task 2 power.exe
+C:\Users\Metabolic\source\repos\Homework 30.10 Bruk\Task 2 power\Task 2 power\bin\Debug\Task 2 power.pdb
+C:\Users\Metabolic\source\repos\Homework 30.10 Bruk\Task 2 power\Task 2 power\obj\Debug\Task 2 power.csprojAssemblyReference.cache
+C:\Users\Metabolic\source\repos\Homework 30.10 Bruk\Task 2 power\Task 2 power\obj\Debug\Task 2 power.csproj.CoreCompileInputs.cache
+C:\Users\Metabolic\source\repos\Homework 30.10 Bruk\Task 2 power\Task 2 power\obj\Debug\Task 2 power.exe
+C:\Users\Metabolic\source\repos\Homework 30.10 Bruk\Task 2 power\Task 2 power\obj\Debug\Task 2 power.pdb
