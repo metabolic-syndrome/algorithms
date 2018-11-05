@@ -1,0 +1,10 @@
+D:\PROG\C#\Набери число\Набери число\bin\Debug\Набери число.exe
+D:\PROG\C#\Набери число\Набери число\bin\Debug\Набери число.pdb
+D:\PROG\C#\Набери число\Набери число\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\PROG\C#\Набери число\Набери число\obj\x86\Debug\Набери_число.Form1.resources
+D:\PROG\C#\Набери число\Набери число\obj\x86\Debug\Набери_число.Properties.Resources.resources
+D:\PROG\C#\Набери число\Набери число\obj\x86\Debug\GenerateResource.read.1.tlog
+D:\PROG\C#\Набери число\Набери число\obj\x86\Debug\GenerateResource.write.1.tlog
+D:\PROG\C#\Набери число\Набери число\obj\x86\Debug\Набери число.exe
+D:\PROG\C#\Набери число\Набери число\obj\x86\Debug\Набери число.pdb
+D:\PROG\C#\Набери число\Набери число\obj\x86\Debug\Набери_число.Form2.resources
