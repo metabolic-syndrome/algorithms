@@ -1,0 +1,20 @@
+D:\PROG\C#\Набери число\Набери число\bin\Release\Набери число.exe
+D:\PROG\C#\Набери число\Набери число\bin\Release\Набери число.pdb
+D:\PROG\C#\Набери число\Набери число\obj\x86\Release\ResolveAssemblyReference.cache
+D:\PROG\C#\Набери число\Набери число\obj\x86\Release\Набери_число.Form1.resources
+D:\PROG\C#\Набери число\Набери число\obj\x86\Release\Набери_число.Form2.resources
+D:\PROG\C#\Набери число\Набери число\obj\x86\Release\Набери_число.Properties.Resources.resources
+D:\PROG\C#\Набери число\Набери число\obj\x86\Release\GenerateResource.read.1.tlog
+D:\PROG\C#\Набери число\Набери число\obj\x86\Release\GenerateResource.write.1.tlog
+D:\PROG\C#\Набери число\Набери число\obj\x86\Release\Набери число.exe
+D:\PROG\C#\Набери число\Набери число\obj\x86\Release\Набери число.pdb
+C:\Users\Metabolic\Desktop\Обучение\Набери число\Набери число\bin\Release\Набери число.exe
+C:\Users\Metabolic\Desktop\Обучение\Набери число\Набери число\bin\Release\Набери число.pdb
+C:\Users\Metabolic\Desktop\Обучение\Набери число\Набери число\obj\x86\Release\Набери число.csprojAssemblyReference.cache
+C:\Users\Metabolic\Desktop\Обучение\Набери число\Набери число\obj\x86\Release\Набери_число.Form1.resources
+C:\Users\Metabolic\Desktop\Обучение\Набери число\Набери число\obj\x86\Release\Набери_число.Form2.resources
+C:\Users\Metabolic\Desktop\Обучение\Набери число\Набери число\obj\x86\Release\Набери_число.Properties.Resources.resources
+C:\Users\Metabolic\Desktop\Обучение\Набери число\Набери число\obj\x86\Release\Набери число.csproj.GenerateResource.cache
+C:\Users\Metabolic\Desktop\Обучение\Набери число\Набери число\obj\x86\Release\Набери число.csproj.CoreCompileInputs.cache
+C:\Users\Metabolic\Desktop\Обучение\Набери число\Набери число\obj\x86\Release\Набери число.exe
+C:\Users\Metabolic\Desktop\Обучение\Набери число\Набери число\obj\x86\Release\Набери число.pdb
